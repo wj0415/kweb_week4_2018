@@ -1,0 +1,18 @@
+{
+  "name": "kweb_week4_2018",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wj0415/kweb_week4_2018.git",
+  "author": "WhoJung Kim <wj0415@korea.ac.kr>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  },
+  "scripts":{
+    "start":"node hw4.js",
+    "start:dev":"nodemon hw4.js"
+  }
+}
